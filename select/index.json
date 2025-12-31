@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Summer Time Love",
+  "base_artist": "m-flo loves 日之内エミ & Ryohei",
+  "createdAt": "2025-12-31T15:29:45.623097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Summer Time Love (Kuchiroro Remix)",
+      "artist": "Shiggy Jr.",
+      "has_synced": false,
+      "path": "select/01_Summer_Time_Love_(Kuchiroro_Remix)_Shiggy_Jr..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Summer Time Love",
+      "artist": "Shiggy Jr.",
+      "has_synced": true,
+      "path": "select/02_Summer_Time_Love_Shiggy_Jr..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Summer time love [サマータイムラブ]",
+      "artist": "Shiggy Jr.",
+      "has_synced": true,
+      "path": "select/03_Summer_time_love_[サマータイムラブ]_Shiggy_Jr..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Summer Time Love",
+      "artist": "Juan Karlos Labajo",
+      "has_synced": true,
+      "path": "select/04_Summer_Time_Love_Juan_Karlos_Labajo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Summer Time Love",
+      "artist": "m-flo feat. Emi Hinouchi & Ryohei",
+      "has_synced": true,
+      "path": "select/05_Summer_Time_Love_m-flo_feat._Emi_Hinouchi_&_Ryohei.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Summer Time Love",
+      "artist": "m-flo/Emi Hinouchi/Ryohei",
+      "has_synced": true,
+      "path": "select/06_Summer_Time_Love_m-flo_Emi_Hinouchi_Ryohei.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Summer Time Love",
+      "artist": "juan karlos",
+      "has_synced": true,
+      "path": "select/07_Summer_Time_Love_juan_karlos.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Summer Time Love",
+      "artist": "m-flo",
+      "has_synced": true,
+      "path": "select/08_Summer_Time_Love_m-flo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Summer Time Love",
+      "artist": "Shiggy Jr.",
+      "has_synced": true,
+      "path": "select/09_Summer_Time_Love_Shiggy_Jr..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SUMMER TIME LOVE",
+      "artist": "EXILE",
+      "has_synced": true,
+      "path": "select/10_SUMMER_TIME_LOVE_EXILE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Summer Time Love",
+      "artist": "Miyoshi Kazunari[CV:Tomoru Akazawa]",
+      "has_synced": false,
+      "path": "select/11_Summer_Time_Love_Miyoshi_Kazunari[CV_Tomoru_Akazawa].txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Summer Time Love (Instrumental)",
+      "artist": "m-flo loves Hinouchi Emi & Ryohei",
+      "has_synced": true,
+      "path": "select/12_Summer_Time_Love_(Instrumental)_m-flo_loves_Hinouchi_Emi_&_Ryohei.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SUMMER TIME LOVE",
+      "artist": "Exile",
+      "has_synced": false,
+      "path": "select/13_SUMMER_TIME_LOVE_Exile.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Summer Time Love",
+      "artist": "m-flo",
+      "has_synced": false,
+      "path": "select/pl_01_Summer_Time_Love_m-flo.txt"
+    }
+  ]
+}
